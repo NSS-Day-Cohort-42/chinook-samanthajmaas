@@ -1,0 +1,1 @@
+select distinct i.BillingCountry from Invoice i;
